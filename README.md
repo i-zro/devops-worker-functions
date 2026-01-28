@@ -2,7 +2,7 @@
 
 # ec2 관련
 
-- ec2-hostname-tag.sh : ec2 hostname을 tag의 Name 항목으로 변경
+- <span style="background-color:#fff5b1"> ec2-hostname-tag.sh </span> : ec2 hostname을 tag의 Name 항목으로 변경
   - 사전 설정 필요사항: 테라폼에서 아래 항목 추가 필요 (instance_metadata_tags enabled)
 
 ```hcl
